@@ -1,6 +1,4 @@
 # docker
-## docker
-###### docker
 **meet docker**
 ```
 도커를 설치하고
@@ -11,6 +9,10 @@
 *배워보는거야...*
 
 * 설치
-도커 
 * Hello World!
-* First
+* First image
+* First container
+
+글을 쓰는
+
+방법
